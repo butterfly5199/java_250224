@@ -12,6 +12,10 @@ public class BeepEx {
 		System.out.println("nowTime : " + nowTime);
 		
 		
+		
+		
+		
+		
 		for (int i=0; i<5; i++) {
 			toolkit.beep();
 			
