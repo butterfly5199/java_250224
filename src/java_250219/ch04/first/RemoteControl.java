@@ -10,6 +10,7 @@ public interface RemoteControl {
 	void turnOff(); // public abstract 생략 가능 
 	void setVolume(int volume);
 	
+	
 	default void setMute(boolean mute) {
 		if (mute) {
 			System.out.println("음소거 설정");

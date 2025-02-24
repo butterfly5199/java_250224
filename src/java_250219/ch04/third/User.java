@@ -1,7 +1,5 @@
 package java_250219.ch04.third;
 
-import java.util.Vector;
-
 public class User implements Member {
 
 	@Override

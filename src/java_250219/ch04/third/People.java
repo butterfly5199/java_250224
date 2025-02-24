@@ -12,6 +12,10 @@ public class People {
 		// Member member = new Admin();
 		Member member = new User();
 		member.showMyName();
+		
+		
+		Member member1 = new Admin();
+		member1.showMyName();
 	}
 
 }
