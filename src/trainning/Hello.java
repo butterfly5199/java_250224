@@ -1,11 +1,9 @@
-package java_250219.ch01;
+package trainning;
 
 public class Hello {
-
+	
 	public static void main(String[] args) {
 		System.out.println("Hello Java!!");
-
 	}
 
 }
-
