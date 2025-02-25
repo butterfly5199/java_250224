@@ -7,6 +7,7 @@ public class SmartPhoneEx {
 
 		SmartPhone smartPhone = new SmartPhone();
 		smartPhone.open();
+//		ㄴㄴㄴㄴ
 	}
 
 }
