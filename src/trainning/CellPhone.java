@@ -5,8 +5,7 @@ public class CellPhone {
 	String model;
 	String color;
 	
-	CellPhone() {
-		
+	CellPhone() {		
 	}
 	
 	CellPhone(String model, String color) {
