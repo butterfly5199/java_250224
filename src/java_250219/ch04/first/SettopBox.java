@@ -2,6 +2,7 @@ package java_250219.ch04.first;
 
 public class SettopBox implements RemoteControl {
 
+
 	@Override
 	public void turnOn() {
 		System.out.println("SettopBox 켜기");
@@ -17,6 +18,8 @@ public class SettopBox implements RemoteControl {
 		System.out.println("SettopBox 볼륨 설정: " + volume);
 	}
 	
+	
+	@Override
 	public void setMute(boolean mute) {
 		System.out.println("ㅁㅁㅁㅁ");
 	}
@@ -24,4 +27,5 @@ public class SettopBox implements RemoteControl {
 	void s() {
 		
 	}
+
 }

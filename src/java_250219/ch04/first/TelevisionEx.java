@@ -8,6 +8,11 @@ public class TelevisionEx {
 		// RemoteControl remoteControl = new SettopBox();
 		remoteControl.turnOn();
 		remoteControl.setMute(false);
+		
+		RemoteControl remoteControl2 = new Television();
+		remoteControl2.turnOff();
+		remoteControl2.setVolume(22);
+		
 	}
 
 }
