@@ -51,8 +51,8 @@ public class LanguageEx {
 //		test.remove(0);
 //		test.remove(0);
 //		test.remove(0);
-//		
-//		System.out.println("test.size(): " + test.size());		
+	
+//		System.out.println("test.size(): " + test.size());	
 
 	}
 	
