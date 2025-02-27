@@ -23,7 +23,7 @@ public class LanguageEx {
 		friends.add("Tiger");
 		friends.add("Selly");
 		
-//		test.remove("Selly");
+		friends.remove("Selly");
 		
 		System.out.println("test.size(): " + friends.size());
 		System.out.println("==================");

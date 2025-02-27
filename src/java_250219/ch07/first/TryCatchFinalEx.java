@@ -53,10 +53,10 @@ public class TryCatchFinalEx {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			abc();
+//			abc();
 		}
-
 	}
+}
 
 
 
